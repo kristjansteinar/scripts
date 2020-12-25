@@ -2,4 +2,4 @@
 
 export TEST=testing
 
-/deployments/run-java.sh
+exec /deployments/run-java.sh
